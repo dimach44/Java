@@ -1,0 +1,22 @@
+1,West of House,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+2,South of House,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+3,Behind House,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+4,North of House,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+5,Forest Path,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+6,Forest,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+7,Clearing,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+8,Forest Path,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+9,Up a Tree,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+10,Forest,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+11,Forest,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+12,Clearing,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+13,Kitchen,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+14,Attic,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+15,Living Room,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+16,Stone Barrow,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+17,Inside the Barrow,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+18,Forest,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+19,Canyon View,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+20,Rocky Ledge,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+21,Canyon Bottom,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
+22,End of Rainbow,Long Desc,Objects,1,1,1,1,1,1,1,1,1,1
